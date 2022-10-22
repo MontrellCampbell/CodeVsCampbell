@@ -1,0 +1,70 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+
+    width: 100%;
+    height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.banner{
+
+    width: 100%;
+    height: 210vh;
+    background-image: linear-gradient(rgba(0,0,0,.75), rgba(0,0,0,.75)), url(Aesthetic-Nature-Wallpaper-44.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+nav{
+
+    width: 100%;
+    height: 100px;
+    
+
+}
+
+.logo{
+
+   text-align: center;
+   margin-top: 15%;
+ 
+}
+
+ul{
+
+    text-align: center;
+}
+
+ul li{
+
+    display: inline-block;
+    line-height: 100px;
+    width: 250px;
+    font-size: 20px;
+   
+}
+
+ul li a{
+
+    color: #fff;
+    text-decoration: none;
+    font-style: oblique;
+    padding: 12px 20x;
+    transition: 0.4s ease;
+    
+    
+}
+
+ul li a:hover{
+
+    background-color:plum ;
+}
+
